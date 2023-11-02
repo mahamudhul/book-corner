@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Financial Management",
+        "description": "Financial Management: Turning theory into practice is an accessible and principles-based financial management textbook for undergraduate and Honours Accounting students. ",
+        "price": 22.99,
+        "image": "https://www.oxford.co.za/covers/9780199048168.jpg",
+        "category": "finance"
+    },
+    {
+        "title": "Arctic Labyrinth",
+        "description": "The elusive dream of locating the Northwest Passage—an ocean route over the top of North America that promised a shortcut to the fabulous wealth of Asia—obsessed explorers for centuries.",
+        "price": 23.67,
+        "image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2017/01/williams.jpg",
+        "category": "history"
+    },
+    {
+        "title": "Basics of Translation",
+        "description": "This text is an essential coursebook for all Arab learners studying translation. Featuring a bottom-up approach to translation issues, it is informative, interesting and self-explanatory.",
+        "price": 32.99,
+        "image": "https://www.cambridgescholars.com/resources/covers/9781527537545.jpg",
+        "category": "language"
+    },
+    {
+        "title": "English Grammar",
+        "description": "The main purpose of the study is to investigate the problems of teaching/le.g English writing skills for the .rst year secondary school students in Saudi abia.",
+        "price": 17.99,
+        "image": "https://www.noor-book.com/publice/covers_cache_jpg/19/7/5/b/6bd05b488275b43cf1aaeb5eef216588.jpg.jpg",
+        "category": "grammar"
+    },
+    {
+        "title": "The World History",
+        "description": "This book provides a unique perspective on world history that you will not find elsewhere. Some of what is written here fly in the face of convention.",
+        "price": 33.99,
+        "image": "https://m.media-amazon.com/images/I/511zKy-pltL.jpg",
+        "category": "history"
+    },
+    {
+        "title": "Nootan Physics XII Book",
+        "description": "A novel by F. Scott Fitzgerald set in the Roaring Twenties, depicting the excesses and illusions of the American Dream.",
+        "price": 45.99,
+        "image": "https://5.imimg.com/data5/HX/TD/MY-14344381/nootan-physics-xii-book-500x500.png",
+        "category": "physics"
+    },
+    {
+        "title": "Mastering Essential Math",
+        "description": "Check out our new title, Introduction to Elementary Math Grades 2 and 3 ISBN 979-8-9888207-1-0. Perfect to get students back up to speed fast. Short, easy-to-understand lessons.",
+        "price": 21.99,
+        "image": "https://m.media-amazon.com/images/I/71BNd9mPTSL._AC_UF1000,1000_QL80_.jpg",
+        "category": "math"
+    },
+    {
+        "title": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald set in the Roaring Twenties, depicting the excesses and illusions of the American Dream.",
+        "price": 8.99,
+        "image": "https://chemistryhall.com/wp-content/uploads/2019/06/clayden.jpg",
+        "category": "finance"
+    },
+    {
+        "title": "The Magick of Physics",
+        "description": "An award-winning Oxford physicist draws on classic sci-fi, fantasy fiction, and everyday phenomena to explain and celebrate the magical properties of the world around us.",
+        "price": 9.99,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982170608/the-magick-of-physics-9781982170608_hr.jpg",
+        "category": "physics"
+    },
+    {
+        "title": "A Short History of the World",
+        "description": "Mankind has come a long way since our ancestors first stood up on two feet, but how we did get to where we are today? This book tells the story, through conflict and intrigue, power won and lost, great empires built and destroyed.",
+        "price": 31.99,
+        "category": "history",
+        "image": "https://cdn.kobo.com/book-images/72ee345d-50bf-4eda-92ae-cc10831d1772/1200/1200/False/a-short-history-of-the-world-11.jpg"
+    },
+    {
+        "title": "Essential English Grammar",
+        "description": "Designed for intermediate and advanced students, Essential English Grammar combines reference-style grammar explanations with focused practice activities.",
+        "price": 23.99,
+        "category": "grammar",
+        "image": "https://m.media-amazon.com/images/I/91cXjGBVbFL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
