@@ -18,10 +18,6 @@ Node.js and npm should be installed on your machine.
 ## Installation
 [Clone the repository:](https://github.com/mahamudhul/book-corner)
 
-[Change into the project directory:](cd books-shop)
-
-[Install dependencies:](npm install)
-
 
 ## Screenshots
 [Photo](https://i.ibb.co/QDs793j/6544988790262855c31f30bc-gorgeous-croquembouche-869deb-netlify-app-1.png)
